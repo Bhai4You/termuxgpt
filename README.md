@@ -33,6 +33,10 @@
 | Base license | Apache-2.0 |
 | Task | Text generation |
 
+## Download link
+[![Website](https://img.shields.io/badge/termuxgpt-nano-blue?logo=huggingface)](https://huggingface.co/parixit679/termuxgpt)
+
+
 ## About
 
 TermuxGPT is a lightweight on-device language model designed for use with the **TermuxGPT Android app**.
